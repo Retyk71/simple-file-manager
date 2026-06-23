@@ -2,7 +2,7 @@
 It's just a pet-poject what shows my level of using the &lt;filesystem> library and working w/ the files
 # Console File Manager (C++17)
 
-Консольный файловый менеджер, реализованный на современном C++17 с использованием библиотеки `<filesystem>`.
+Консольный файловый менеджер, реализованный на C++17 с использованием библиотеки `<filesystem>`.
 
 ## Возможности
 
