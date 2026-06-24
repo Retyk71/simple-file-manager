@@ -1,5 +1,5 @@
 # simple-file-manager
-It's just a pet-poject what shows my level of using the &lt;filesystem> library and working w/ the files
+Это простой пет-проект, который демонстрирует мои навыки работы со встроенной библиотекой <filesystem> и C++17 в целом.
 # Console File Manager (C++17)
 
 Консольный файловый менеджер, реализованный на C++17 с использованием библиотеки `<filesystem>`.
